@@ -1,0 +1,19 @@
+# Compiled
+*.class
+*.jar
+*.war
+
+# Maven
+/target
+
+# IDE
+/.classpath
+/.project
+/.settings
+/.metadata
+*.iml
+.idea/
+
+# Git
+!.gitignore
+!.gitkeep
